@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_131" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="com.annuaire.beans.Personne">
+    <void property="adress">
+     <string>Rue du perdu</string>
+    </void>
+    <void property="age">
+     <string>12</string>
+    </void>
+    <void property="email">
+     <string>ladressemailesttroplonguejaieulaflemmedelecrire@gmail.com</string>
+    </void>
+    <void property="firstName">
+     <string>Alaykcendres</string>
+    </void>
+    <void property="lastName">
+     <string>Graissay</string>
+    </void>
+    <void property="telNum">
+     <string>NumÃ©ro inconnu</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.annuaire.beans.Personne">
+    <void property="age">
+     <string>22</string>
+    </void>
+    <void property="email">
+     <string>bernoudlalala@gmail.com</string>
+    </void>
+    <void property="firstName">
+     <string>bernoud</string>
+    </void>
+    <void property="lastName">
+     <string>gridarl</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.annuaire.beans.Personne">
+    <void property="age">
+     <string>21</string>
+    </void>
+    <void property="email">
+     <string>aleksandre@gmail.com</string>
+    </void>
+    <void property="firstName">
+     <string>alekesander</string>
+    </void>
+    <void property="lastName">
+     <string>graysaille</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.annuaire.beans.Personne">
+    <void property="adress">
+     <string>22 chemin de l&apos;arbre</string>
+    </void>
+    <void property="age">
+     <string>45</string>
+    </void>
+    <void property="email">
+     <string>charlesdefrance@francemail.fr</string>
+    </void>
+    <void property="firstName">
+     <string>Charles</string>
+    </void>
+    <void property="lastName">
+     <string>De France</string>
+    </void>
+    <void property="telNum">
+     <string>+262 - 692 - 848 - 775</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.annuaire.beans.Personne">
+    <void property="adress">
+     <string>fdp</string>
+    </void>
+    <void property="age">
+     <string>fdp</string>
+    </void>
+    <void property="comment">
+     <string>fdp</string>
+    </void>
+    <void property="email">
+     <string>fdp</string>
+    </void>
+    <void property="firstName">
+     <string>fdp</string>
+    </void>
+    <void property="lastName">
+     <string>fdp</string>
+    </void>
+    <void property="telNum">
+     <string>fdp</string>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>
